@@ -1,5 +1,3 @@
-## Gorka Azkune
-
 ![Profile picture](/images/profile-picture-0.png)
 
 This is my personal webpage, where you can find my academic activity.
