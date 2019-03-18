@@ -1,4 +1,4 @@
-![Profile picture](/images/profile-picture-0.png)
+![Profile picture](/images/profile-picture-0.png | width=100)
 
 <div style="text-align: justify">
 I am a computer scientist, enthusiast about research and science popularization. My work experience has been focused on developing several autonomous systems, where perception and cognition are the tools to operate in human populated environments. My objective is to understand how to build cognitive schemes on top of artificial perception based on sensors, mainly artificial vision. I like coding and group-working. Here you can find my academic activities.
