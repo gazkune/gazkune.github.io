@@ -1,5 +1,5 @@
 <center>
-<img src="/images/profile-picture-0.png" data-canonical-src="/images/profile-picture-0.png" align="middle" width="448" height="400" />
+<img src="/images/profile-picture-0.png" data-canonical-src="/images/profile-picture-0.png" align="middle" width="336" height="300" />
 </center>
 
 <div style="text-align: justify">
