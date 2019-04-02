@@ -9,4 +9,4 @@ I am a computer scientist, enthusiast about research and science popularization.
 ### [Research Group](http://ixa.si.ehu.es/)
 ### [Publications](https://scholar.google.es/citations?user=_1wx6NoAAAAJ&hl=en&oi=ao)
 ### [Teaching](teaching.md)
-### [Teaching](news.md)
+### [News](news.md)
