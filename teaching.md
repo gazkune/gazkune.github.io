@@ -2,6 +2,18 @@
 
 Here you can find the list of University courses I have been working on as lecturer.
 
+## Data mining
+- **University of Basque Country**
+- 2019/2020 - ...
+- Computer Science Degree.
+- K-NN, Decision trees, Bayesian classifiers, Neural Networks, Clustering, Evaluation, Variable selection.
+
+## Statistical Methods in Engineering
+- **University of Basque Country**
+- 2019/2020 - ...
+- Computer Science Degree.
+- Descriptive statistics, basic probability calculus, probability distributions, sampling and simulation, statistical inference, hypthesis testing.
+
 ## Calculus
 - **University of Basque Country**
 - 2018/2019 - ...
