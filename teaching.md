@@ -2,6 +2,18 @@
 
 Here you can find the list of University courses I have been working on as lecturer.
 
+## Deep Learning for Natural Language Processing
+- **University of Basque Country**
+- 2019/2020 - ...
+- MsC in Language Analysis and Processing.
+- Multimodal deep learning.
+
+## Computer Vision
+- **University of Basque Country**
+- 2019/2020 - ...
+- MsC in Computational Science and Intelligent Systems.
+- Histogram operations and filtering, color space models and transformations, image transformations, neural networks, convolutional neural networks, object detection and segmentation, generative models.
+
 ## Data mining
 - **University of Basque Country**
 - 2019/2020 - ...
