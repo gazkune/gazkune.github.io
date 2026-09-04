@@ -6,11 +6,11 @@ description: Recent professional and academic activities.
 permalink: /news/
 ---
 ## 2026
-- **2026** — Research on multimodal large language models for low-resource languages, world models, and open-ended self-consistency.
-- **2026** — Continued work on multimodal AI, language technology and research projects at HiTZ.
+- **2026** — Two papers presented at LREC 2026!
+- **2026** — Project "Multimodal LLMs for Low-Resource Languages" was granted by the EuroHPC AI Factory.
 ## 2025
-- **2025** — Several papers on vision-language models, multimodal alignment and language technology were published at major NLP venues.
-## 2021
-- **15 March 2021** — Invited to the special radio programme *Faktoria Gertu* at EITB.
-- **20 November 2020** — *Improving Conversational Question Answering Systems after Deployment using Feedback-Weighted Learning* received an Outstanding Paper designation at COLING 2020.
-- **3 April 2019** — Participated as a speaker in the Design Thinking Innova / STEAM Science and Technology event in Bilbao.
+- **2025** — Two papers presented at ACL 2025.
+- **2025** — GeoR2-LLM project kick off meeting took place in Toulouse.
+- **2025** — A paper presented at COLING 2025. 
+## 2024
+- **2024** — Two papers presented at NeurIPS 2024.
