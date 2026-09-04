@@ -3,6 +3,6 @@
 - {title: Publications, url: /publications/}
 - {title: Projects, url: /projects/}
 - {title: Teaching, url: /teaching/}
-- {title: Talks, url: /talks/}
+#- {title: Talks, url: /talks/}
 - {title: News, url: /news/}
 - {title: Contact, url: /#contact}
