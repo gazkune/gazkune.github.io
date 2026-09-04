@@ -14,3 +14,4 @@ permalink: /news/
 - **2025** — A paper presented at COLING 2025. 
 ## 2024
 - **2024** — Two papers presented at NeurIPS 2024.
+- **2024** — A paper presented at NAACL 2024.
