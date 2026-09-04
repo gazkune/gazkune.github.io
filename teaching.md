@@ -6,28 +6,25 @@ description: Courses and teaching activities.
 permalink: /teaching/
 ---
 ## University of the Basque Country (UPV/EHU)
-### Calculus
-**Computer Science Degree · 2018/2019 – present**
+### Machine Learning and Neural Networks
+**Artificial Intelligence and Computer Science Degrees**
 
-Multivariable functions, differentiability, integrals and differential equations.
+Machine learning basics, Multi-layer Perceptrons, Training Neural Networks, Convolutional Neural Networks.
 
-## University of Deusto
-### Programming III
-**Double Degree in Business Administration and Computer Science · 2015/2016 – 2018/2019**
+### Computer Vision
+**Artificial Intelligence and Computer Science Degrees**
 
-Advanced Java, including unit testing, GUI development, databases and file management, data structures and algorithms.
-### Programming IV
-**Double Degree in Business Administration and Computer Science · 2015/2016 – 2018/2019**
+Image Recognition, Object Detection, Image Segmentation, Self-supervised Learning, Diffusion models.
 
-C and C++, including pointers, arrays, classes, inheritance and interfaces.
-### Software Design
-**Double Degree in Business Administration and Computer Science · 2015/2016 – 2018/2019**
+### Introduction to Deep Learning
+**KISA Master**
 
-Software architectures, client-server architectures and object-oriented software design patterns.
-### Software Requirements
-**Double Degree in Business Administration and Computer Science · 2016/2017 – 2018/2019**
+Machine learning basics, Multi-layer Perceptrons, Training Neural Networks, Convolutional Neural Networks.
 
-Requirements engineering, UML modelling, object-oriented analysis and conceptual domain models.
+### Deep Learning for Natural Language Processing
+**HAP/LAP Master**
+
+Multimodal Deep Learning
 
 ---
 If you are interested in **PhD supervision or research projects**, please get in touch by email.
