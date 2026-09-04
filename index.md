@@ -1,12 +1,12 @@
-<center>
-<img src="/images/profile-picture-0.png" data-canonical-src="/images/profile-picture-0.png" align="middle" width="336" height="300" />
-</center>
-
-<div style="text-align: justify">
-I am a computer scientist, enthusiast about research and science popularization. My work experience has been focused on developing several autonomous systems, where perception and cognition are the tools to operate in human populated environments. My objective is to understand how to build cognitive schemes on top of artificial perception based on sensors, mainly artificial vision. I like coding and group-working. Here you can find my academic activities.
-</div>
-
-### [Research Group](http://ixa.si.ehu.es/)
-### [Publications](https://scholar.google.es/citations?user=_1wx6NoAAAAJ&hl=en&oi=ao)
-### [Teaching](teaching.md)
-### [News](news.md)
+---
+layout: home
+---
+<section class="hero" id="about"><div><p class="eyebrow">Artificial Intelligence · Language Technology · Multimodal AI</p><h1>Gorka Azkune</h1><p class="role">Assoaciate Professor at the University of the Basque Country (UPV/EHU)</p><p class="lead">I work on artificial intelligence with a particular focus on <strong>Large Language Models, multimodal AI, vision-language models, reasoning, and language technology</strong>.</p><div class="hero-links"><a class="button" href="{{ '/publications/' | relative_url }}">Publications</a><a class="text-link" href="https://scholar.google.es/citations?user=_1wx6NoAAAAJ&hl=en&oi=ao">Google Scholar ↗</a><a class="text-link" href="https://github.com/gazkune">GitHub ↗</a></div></div><div class="hero-photo-wrap"><img class="hero-photo" src="{{ '/images/profile-picture-0.png' | relative_url }}" alt="Gorka Azkune"></div></section>
+<section class="section intro-grid"><div><p class="section-kicker">About me</p><h2>Building AI systems that can understand, reason and communicate.</h2></div><div class="section-text"><p>I am a computer scientist interested in understanding how we can build AI systems that combine language, perception and reasoning. My research has evolved from intelligent environments and autonomous systems towards <strong>language-centric and multimodal artificial intelligence</strong>.</p><p>My current work explores how large models acquire and use knowledge, how they reason over multimodal information, and how we can make them more capable, reliable and useful across languages and domains.</p><p>I am a member of the <a href="https://www.hitz.eus/en">HiTZ Basque Center for Language Technology</a> and the <a href="https://www.ixa.eus/">IXA research group</a> at UPV/EHU.</p></div></section>
+<section class="section" id="research"><div class="section-heading"><p class="section-kicker">Research</p><h2>Research interests</h2></div><div class="research-grid"><article class="research-card">
+<span>01</span><h3>Large Language Models &amp; Reasoning</h3><p>Reasoning, self-consistency, retrieval, knowledge use, evaluation, and reliable generation with LLMs.</p></article><article class="research-card">
+<span>02</span><h3>Multimodal &amp; Vision-Language AI</h3><p>Vision-language models, multimodal alignment, compositionality, spatial reasoning, and grounded representations.</p></article><article class="research-card">
+<span>03</span><h3>Multilingual &amp; Low-Resource AI</h3><p>Language technology for under-resourced languages, multilingual LLMs, Basque NLP, and efficient model adaptation.</p></article><article class="research-card">
+<span>04</span><h3>Agents &amp; World Models</h3><p>Language-driven interaction, embodied intelligence, multimodal agents, and models that can reason about changing environments.</p></article></div></section>
+<section class="section section-muted"><div class="section-heading inline-heading"><div><p class="section-kicker">Selected work</p><h2>Recent publications</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">View all publications →</a></div><div class="publication-list">{% for pub in site.data.publications limit:6 %}<article class="publication"><div class="pub-year">{{ pub.year }}</div><div><h3>{% if pub.url %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h3><p>{{ pub.authors }}</p><p class="venue">{{ pub.venue }}</p></div></article>{% endfor %}</div></section>
+<section class="section" id="contact"><div class="contact-card"><div><p class="section-kicker">Contact</p><h2>Let's talk about research.</h2></div><div><p>If you are interested in research collaborations, PhD supervision, projects, or related topics in AI and language technology, feel free to get in touch.</p><a class="button" href="mailto:gorka.azkune@ehu.eus">gorka.azkune@ehu.eus</a></div></div></section>

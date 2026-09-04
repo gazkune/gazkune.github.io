@@ -1,0 +1,8 @@
+- {year: 2026, title: "Agreement in Representation Space for Open-Ended Self-Consistency", authors: "Gorka Azkune", venue: "Preprint"}
+- {year: 2026, title: "Multimodal Large Language Models for Low-Resource Languages: A Case Study for Basque", authors: "Lukas Arana, Julen Etxaniz, Ander Salaberria, Gorka Azkune", venue: "LREC 2026", url: "https://arxiv.org/abs/2511.09396"}
+- {year: 2025, title: "Vision-Language Models Struggle to Align Entities across Modalities", authors: "Iñigo Alonso, Gorka Azkune, Ander Salaberria, Jeremy Barnes, Oier Lopez de Lacalle", venue: "ACL 2025"}
+- {year: 2025, title: "Improving the Efficiency of Visually Augmented Language Models", authors: "Paula Ontalvilla, Aitor Ormazabal, Gorka Azkune", venue: "COLING 2025"}
+- {year: 2025, title: "EnerGIZAr: Leveraging GIZA++ for Effective Tokenizer Initialization", authors: "Pranaydeep Singh, Eneko Agirre, Gorka Azkune, Orphee De Clercq, Els Lefever", venue: "Findings of ACL 2025"}
+- {year: 2024, title: "BIVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval", authors: "Gorka Azkune et al.", venue: "NeurIPS 2024"}
+- {year: 2024, title: "BERTAQA: How Much Do Language Models Know About Local Culture?", authors: "Gorka Azkune et al.", venue: "NeurIPS 2024"}
+- {year: 2024, title: "Grounding spatial relations in text-only language models", authors: "Gorka Azkune, Ander Salaberria, Eneko Agirre", venue: "Neural Networks, 170, 215–226"}

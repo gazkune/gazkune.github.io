@@ -1,2 +1,10 @@
-theme: jekyll-theme-slate
-title: Welcome to Gorka Azkune's homepage!
+title: "Gorka Azkune"
+description: "Researcher in Artificial Intelligence, Large Language Models, Multimodal AI, and Language Technology."
+url: "https://gazkune.github.io"
+baseurl: ""
+lang: "en"
+markdown: kramdown
+permalink: pretty
+exclude: [Gemfile, Gemfile.lock, README.md, vendor, .git]
+sass:
+  style: compressed
