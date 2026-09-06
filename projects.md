@@ -16,5 +16,6 @@ permalink: /projects/
 
 ### Completed Projects
 <div class="project-grid">
-<article class="project-card"><p class="project-tag">Multilingual AI</p><h2>AWARE: Commonsense for a new generation of natural language understanding applications</h2><p>Learning commonsense knowledge for natural language understanding form visual and structured sources.</p></article>
+<article class="project-card"><p class="project-tag">Multimodal AI</p><h2>AWARE: Commonsense for a new generation of natural language understanding applications</h2><p>Learning commonsense knowledge for natural language understanding form visual and structured sources.</p></article>
+<article class="project-card"><p class="project-tag">Multilingual AI</p><h2>DeepKnowledge: Deep Language Models for Understanding and Reasoning with Multilingual Content</p></article>
 </div>
