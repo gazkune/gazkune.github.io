@@ -13,3 +13,8 @@ permalink: /projects/
 <article class="project-card"><p class="project-tag">Human-centered AI</p><h2>HumanAIze</h2><p>Reliable, ethical and human-centered multilingual AI, including bias, cultural understanding, trust and multimodal interaction.</p></article>
 <article class="project-card"><p class="project-tag">Vision-Language Models</p><h2>MOLVI</h2><p>Vision-Language Models for Inclusion, Sign language translation, VLMs for video processing and understanding.</p></article>
 </div>
+
+### Completed Projects
+<div class="project-grid">
+<article class="project-card"><p class="project-tag">Multilingual AI</p><h2>AWARE: Commonsense for a new generation of natural language understanding applications</h2><p>Learning commonsense knowledge for natural language understanding form visual and structured sources.</p></article>
+</div>
